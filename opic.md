@@ -185,6 +185,8 @@ https://www.youtube.com/watch?v=F7VmN7PcpMs&t=3s
 >
 > **So I think overall(그냥 overall을 쓰는거보다 더 자연스러운 진입)**, because my mom introduced me to folk music, it lead me into jazz, and then finally into hip-hop, which is now, **my love(My passion, My life, My everything)**. 
 
+***
+
 # 자기소개를 안해도 IH/AL 가능한가요? | 오픽 1:1 가이드 002
 
 https://www.youtube.com/watch?v=tiLY_fJQDj8
