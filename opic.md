@@ -204,3 +204,81 @@ https://www.youtube.com/watch?v=tiLY_fJQDj8
 
 > You know, I already told you that I love coffee in my introduction, ~
 
+***
+
+# 직접화법 사용하면 오픽 AL은 내꼬얌! | 오픽 1:1 가이드 004
+
+https://www.youtube.com/watch?v=fyrLr4OLlu8&t=296s
+
+## past experience 대답하기
+
+comboset의 종류에는 4가지가 있다. description, past experience, habit, comparison. 대부분의 구조는 MP(main point), fillers / feelings, freestyle, conclusion이다. 질문을 들을 때 디테일을 생각하지 말고 MP를 빨리 생각하자.  
+
+> ### ex)
+> Q: Tell me what recycling was like when you were a child. Was there a particular place to which you took out the recyclables? Describe what it was like and what you did in detail. 
+>
+> A: Recycling... ok, that's pretty interesting. When I was a child, I would have to say that recycling was quite organized. At least in my home anyway. ~
+
+만약 past experience에서 다른 사람이 나에게 뭐라고 했다를 말할 때는 직접 한 말을 말해보자. 더 dynamic하게 들린다. 
+
+> she was like, "Sam, make sure to separate everything!"
+
+또 스스로 한 생각을 말할 때는 I thought to myself, I was like ~
+
+***
+
+# AL학생은 자기소개도 다르게 할까? | AL 시리즈 학생편 001
+
+https://www.youtube.com/watch?v=WL6JVx9e05c&t=180s
+
+자기소개법 
+
+> ### ex)
+> A: Hi, **I'm Rachel.(My name is 로 하지 말기)** uh, uh, actually, I don't know really what to tell you about myself but uh, these days **I'm really into(엄청 좋아하는 느낌을 잘 나타냄)** KPOP music.
+>
+> Because um you know, you know what? I gained a lot of weight **these days(in these days보다 these days가 더 맞다)** so I (really) need to lose my weight. 
+
+틀렸다는 느낌이 들면 고치고 넘어가도 되지만, 계속 틀린다면 그냥 넘어가자. 대답이 약하게 보이지 않도록 한다. 
+
+> So I should decide, I decided to go to KPOP music dance academy to lose my, to lose my weight. 
+> - 위의 문장을 좀더 자연스럽게 하기
+> > I decided to take KPOP dance lessons to lose my weight.(선생님을 만나는 느낌)
+
+한국 사람들은 어디에 가는 것을 중점을 두지만, 영어에서는 누굴 만나러 가는데에 중점을 둔다. 
+
+> I need to go to the hospital. vs I need to go see a doctor. 
+
+> I'm gonna keep learning. OK? And that's pretty much what(**all**) I have to say about myself.
+> - what을 all로 바꾸어 all I have to say로 바꾸면 더 좋다!
+
+***
+
+# "controlled singular" 전략을 사용못하면 AL 꿈깨! | AL 시리즈 학생편 002
+
+https://www.youtube.com/watch?v=dFw5ktXLHy0
+
+## controlled singular 통제된 단수형(?)
+
+> ### ex)
+> Q: You indicated that you go to coffee shops. Tell me about the cafes or coffee houses in your community.
+>
+> A: **Oh, cafes?(질문에 있는 단어를 쓰며 생각하는 느낌주기! 추가적으로 Cafes around my area... Oh my, where do I begin?)** 
+>
+> Uh, there're(there're를 그냥 there's라고 하기도 함) so many(myriads of, tons of, loads of) cafes near my home. 
+>
+> Starbucks, Ediya, Twosome Place, But there's (this가 이 괄호자리에 있으면 더 좋다!) one place that I like because this place is like my home. 
+> - 장소의 리스트를 만들면서 controlled singular로 갔다. 그 곳이 어디였는지 설명했으면 더 좋았음. But there's this one place. It's called 'Coffee land'
+> - 무언가에 대해 말할 때 그 제목, 이름을 말하는 디테일을 챙겨보자. 
+> - description에서 simile(비유)를 쓰면 너무 좋다. this place is like my home. 이 구절이 MP가 된다. 비유가 생각이 안나면? MP만이라도 하자. 
+>
+> You know, there're so many cafes in Korea but they are all(얼 not 올) of franchise. What I like this place is this is not a franchise so there aren't many people(피쁠? 발음을 자연스럽게 해보자).
+> - 약간 틀린 문장이 있기도 하다. 
+>
+> So, it is cozy and I feel relaxed. So I like to go there.
+> - 단순 단어 나열대신 문장을 넣어서 구성해보자. 
+> - 더 느낌있게 말하기. 이 뒤에 더 설명을 넣으면 된다! I mean, it's just so relaxing whenever I'm there.
+> - So를 너무 많이 사용하고 있다면 That's why를 써보자.
+>
+> But you know what? I already told you in my introduction but they usually play KPOP songs that I like. So, I really appreciate that.
+> - 이전 자신의 자기소개와 연결하여 연결하는 전략을 취해보자. 
+
