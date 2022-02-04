@@ -259,17 +259,22 @@ https://www.youtube.com/watch?v=dFw5ktXLHy0
 
 ## controlled singular 통제된 단수형(?)
 
+통제된 단수형을 쓰는 이유는 질문을 이해했음을 어필하고, 여러가지 얘기 중에서 한가지만 얘기를 하겠다는 의미
+
 > ### ex)
 > Q: You indicated that you go to coffee shops. Tell me about the cafes or coffee houses in your community.
 >
 > A: **Oh, cafes?(질문에 있는 단어를 쓰며 생각하는 느낌주기! 추가적으로 Cafes around my area... Oh my, where do I begin?)** 
 >
-> Uh, there're(there're를 그냥 there's라고 하기도 함) so many(myriads of, tons of, loads of) cafes near my home. 
+> Uh, there're(there're를 그냥 there's라고 하기도 함) so many(myriads of, tons of, loads of) cafes near my home(복수형 질문이므로 복수로 시작하고 통제된 단수형쪽으로 감).
 >
 > Starbucks, Ediya, Twosome Place, But there's (this가 이 괄호자리에 있으면 더 좋다!) one place that I like because this place is like my home. 
 > - 장소의 리스트를 만들면서 controlled singular로 갔다. 그 곳이 어디였는지 설명했으면 더 좋았음. But there's this one place. It's called 'Coffee land'
 > - 무언가에 대해 말할 때 그 제목, 이름을 말하는 디테일을 챙겨보자. 
 > - description에서 simile(비유)를 쓰면 너무 좋다. this place is like my home. 이 구절이 MP가 된다. 비유가 생각이 안나면? MP만이라도 하자. 
+> - 무엇? Coffee shop. 
+> - 느꼈던 기분은? I love it.
+> - 왜? because  it makes me feel comfortable.
 >
 > You know, there're so many cafes in Korea but they are all(얼 not 올) of franchise. What I like this place is this is not a franchise so there aren't many people(피쁠? 발음을 자연스럽게 해보자).
 > - 약간 틀린 문장이 있기도 하다. 
@@ -277,8 +282,117 @@ https://www.youtube.com/watch?v=dFw5ktXLHy0
 > So, it is cozy and I feel relaxed. So I like to go there.
 > - 단순 단어 나열대신 문장을 넣어서 구성해보자. 
 > - 더 느낌있게 말하기. 이 뒤에 더 설명을 넣으면 된다! I mean, it's just so relaxing whenever I'm there.
-> - So를 너무 많이 사용하고 있다면 That's why를 써보자.
+> - So를 너무 많이 사용하고 있다면 **That's why**를 써보자.
 >
 > But you know what? I already told you in my introduction but they usually play KPOP songs that I like. So, I really appreciate that.
 > - 이전 자신의 자기소개와 연결하여 연결하는 전략을 취해보자. 
 
+***
+
+# 노잼 얘기를 듣기 좋게 깔끔하게 만드는 방법 | AL 시리즈 학생편 003
+
+https://www.youtube.com/watch?v=kSYsKG7Ie1g
+
+> ### ex)
+> Q: Tell me about a memorable incident that happened at a coffee shop.  What happened? Who was involved? How did you deal with the situation? Tell me everything about what happened from beginning to end.
+> 
+> A: I have the perfect story to tell you(너무 완벽한 시작. 너무 완벽해서 script같음). Mmm(다른 fillers 추천), I once borrowed my boyfriend's laptop ... and I was waiting for him at Twosome Place.(여기에 MP가 없다. 넣어주면 좋다)
+> - ...and I pretty much got into a big fight with him because of that at Twosome. Oh I felt so annoying. 과 같이 쓰면 MP를 앞에 둘 수 있다!
+>
+> You know, all of a sudden, I felt like going to the washroom. So, I felt leaving the laptop on the table.
+> - extra detail을 설명하면서 문장을 깔끔하게 만들었다. 
+>
+> Then my boyfriend came to the coffee shop and he was shocked to see the laptop alone. And **what you have to realize is that(내 말을 잘 들어보라고 얘기해보고 싶을 때)** he was being very **paranoid(오픽시험에서 어려운 단어를 쓸 때는 그 단어를 설명해보자.)** about his laptop.
+> 
+> **And you know(fillers를 쓸때 다른 단어를 합쳐서 써보자)**, when I came back, **he was like(과거의 quotation을 쓸 때 아주 자연스럽다)**, **"Hey are you crazy? What are(여기는 were이 좀더 자연스러운듯) you thinking?"(direct quotation에서는 과거형X)** 
+> 
+> And this **made my bool boil to the max.(감정 단어는 조금 더 느리게 강조하자!)** 
+>
+> And **I couldn't believe how(느낌을 설명할 때 써보자)** obnoxious(very annoying) he was being. And uh, **what am I trying to say(설명이 기억이 기억나지 않을 때)** ...
+>
+> Uh, we ended up fighting and eventually, he apologized for **being stupid**. And so, we **were able to(과거에 ~할 수 있었다)** make up in the end.
+
+***
+
+# 첫 5초 시작이 엄청 중요하다! | AL 시리즈 학생편 004
+
+https://www.youtube.com/watch?v=lzOFxAqb7ds&t=216s
+
+질문에 대해서 대답할 때 5초 안에 대답을 해야한다. 이 생각하는 자체가 무조건 짧아야 한다. 5초 넘으면 너무 약해보이기 시작한다. 이 방법을 쉽게 하기 위해 전략을 만들어보자. 우선 감정을 말해보는 것이다. Um, interesting. Oh wow. 하고 시작하자. 질문에 있는 단어를 사용하고 싶다면 아주 짧게 main word를 던지자. Oh, the first coffee shop, 하고 시작. 오픽을 연습할 때 대답 전체를 연습하지 말고 시작을 연습하며 뒤의 대답을 더 잘할 준비를 할 수 있다. 시작이 좋지 않으면, 그 뒤의 대답도 좋지 못하다. 
+
+> ### ex)
+> A: The first coffee shop that I've ever been to... Um, **I think it was Cafe moa** **when I was in high school** but **I can't say for certain(정확하게 모를때는 이렇게 써보자)**. Anyway, I think that place was **more known** for their ice-cream than their coffee. And you know, they put so many toppings and I thought it was wonderful.
+> - It was ~ 와 I think it was ~은 느낌이 완전히 다르다. 
+> - 또 when I was a high school student보다는, When I was in high school이나 In my high school days라 해보자. When I was in my ~ days, 라고 하면 모든 시절 얘기 가능. 
+> - 지금 생각한 것과 과거에 생각한 것을 잘 구분해서 써보자.
+>
+> **My friends and I(I and my friends X. I를 뒤에 두자)** went there **for the first time(처음 해봤을 때)** after an exam. 
+> 
+> Um you know, it was our way to celebrate. When we went there, they had parfait which was (**pretty much / something like**을 추가하면 더 좋을듯) ice-cream with fruits and snacks in a tail cup. 
+>
+> **I would say(~라 말할 수 있어요 I would like to talk about보다 좋다)** it was **quite pricey(expensive나 cost a lot과 같음)** for students. But they gave us free bread too. So I thought it was quite** worth it(비싸도 좋았다)**. 
+>
+> You know, **it's funny(신기할 때)** because their ice-cream was so good that **we didn't even think about(아예 ~할 생각을 하지 않았어요)** ordering any coffee. 
+>
+> And so, it was pretty **ice-cream-tastic(단어를 합치기는 AL이상 class)** if you know what I mean. 
+
+# 답변 중 다음 할 말이 생각나지 않는다면…? | AL 시리즈 학생편 005
+
+https://www.youtube.com/watch?v=LhTPSTZr3l8
+
+답변이 생각이 나지 않을 때는 기본적으로 fillers를 이용할 수 있을 것이다. 특히 이를 앞에 말한 단어와 같이 사용하여 fillers를 쓴다면, 훨씬 더 자연스럽게 들린다. 
+
+> ### ex)
+> Q: Where do people in you country go to in their free time? Do they go to parks or beaches? Tell me everything about the places people  go to in their free time. 
+>
+> A: I guess people usually go to parks whenever they have free time. because uh, you have the freedom to do various activities there. 
+> - MP. 무엇을 얘기할 지 정확히 얘기하자. 
+> 
+> And um, I think people love to have options at a park. And the options and endless.
+> - 짧은 MP가 좋은 편이다. 긴 MP는 기억하기 어렵고 내용을 이해하기 어렵게 한다. 우선 MP를 짧게 잛는 것을 연습하자. 
+> 
+>  **And um, you know(filler combo)**, the(... the. the를 쓴다면 중간에 생각하고 다시 the를 사용해보자) many parks have trails so many people **tend to(약간의 빈도를 보여주기 위해 좋다)** ride their bikes there. 
+> - the ... 하고 모르겠을 때, 바로 filler를 붙여서 써보자. you know, the ... um .... you know, many parks ~
+> 
+> And um, the scenery's great and the air is quite fresh. **And you know what?** **Oh what am I saying...(뭐라 말할지 생각이 안날 때 좋은 전략)**  Uh yeah! People prefer relaxing instead ...
+> - you know what? 은 소통을 하고 있다는 큰 느낌을 준다. 
+> - 또 instead 를 사용하면서 다른 activities로 전환
+>
+>  and so a lot of them ... chicken ... order chicken and beer ... and um... **chat up a storm(아주 많이 말한다)** with their friends.
+> - 생각이 안날 때는 말했던 문장을 반복하면서 말하며 이어간다. A lot of them ....A lot of them ~ 같은 단어를 사용할 수 없고, 이어가고 싶으면 filler를 이용하자. 틀린거 고칠 때도 좋다!
+> 
+>  **But you know what(But을 이용하여 filler를 다른 방식으로 사용하기)**? That's a common thing to do here in Korea. 
+> 
+> And of course, there's(여기서는 강조로 there is를 감정적으로 크게 하면 더 좋을 것이다) another option. (Another option is to) -> (you can) just simply lie down on the grass. 
+> 
+> And **occasionally(경우에 따라서)**, you can **even** see some people busking. The those random performances are ...(you know, those) random performances are definitely a special treat. 
+> - even(심지어) / quite(꽤) / a little bit(약간) / pretty(아주) /like(~같이)
+> - 다시 말할 때 filler를 사용해서 자연스럽게 잇자.
+> 
+> Uh, I think you know, it's the no brainer to go to parks ... because there are so many things to do. And its' like a playground for adults. 
+
+***
+
+# 비교 질문 답변은 어떻게 할까요? | AL 시리즈 학생편 006
+
+https://www.youtube.com/watch?v=PI2FFtUS-oM&t=13s
+
+비교질문에는 전략이 필요하다. 비교질문에 대답할때는 확실한 요점이 필요하다. 
+
+완전한 현재는 진짜 비교없이 현재만 말해보는 것이다. 비교문장은 좋은 것이지만, 명확하게 답변하기 위해서는 완전한 현재를 말하고 과거경험을 말하여 대조시키는 것이다. 지금에 대해서만 생각하고 다른 내용으로 자연스럽게 간다. 그러다가 과거에서 다시 현재로 오는 방법을 쓰자. 아래 예시는 과거로 시작해서 현재로 종료했다.
+
+> ### ex)
+> Q: Think about what you did during your free time as a child. Do you have more free time mow than when you were a child? Tell me about your free time now compared to when you were a child. 
+> 
+> A: Um, alright. I think I didn't do **anything much(많은 것을 하진 않았어요. all that much)** when I was (a) child (during) => {whenever I had free time} my free time. And um, **at that time(이거 너무 많이쓰는데 During those times, Back then을 써보자)**, I really liked to stayed at home and relax.
+> 
+>  And my mom was usually like, 'Rachel, did you do your homework?' or 'Rachel, clean your room.'. Whenever I had my(여기는 당연히 my외에 올 단어가 없으므로 빼는게 좋다) free time, she always nagged(잔소리) at me to do something more productive. 
+> 
+> And um, **I found it(이렇게 느꼈다. 현재 => find it)** so annoying. And I never understood why she wouldn't (just를 이자리에 넣어주면 더 좋게 들림) let me be. 
+> 
+> But now, I have more freedom from my mom. And um, whenever I (had) => (have) my(는 지우자) free time, I really like to **go to the movies(영화관에 가서 보는 거보다 이렇게 대답하는게 더 자연스럽다)**. 
+> 
+> And um, luckily, there's movie theatre nearby my home. And I think **I'm starting to(계속 진행중인 시제)** get old now because I don't feel like going too far. You know what I mean. 
+> 
+> And um, I'm not sure if I have more free time now as an adult, but what is for certain is that I have, definitely, more freedom from my mom's nagging. 
+> - 결론을 짓기 어렵다면 이미 말한 감정과 연결시켜서 결론에서 다시 말하면 좋다. 무언가를 싫어한다면 현재도 여전히 싫어하는지 혹은 개선되었는지? 
