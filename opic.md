@@ -503,3 +503,76 @@ HATE LOVE technique. 일상생활에서 쓸 수 있는 유머. 영어 말하기�
 - 뒤에서 긍정적인 것을 생각하고 because를 이용해보자. because뒤에 살짝 멈추도록 한다.
 - 이후 좋은 이유를 아무거나 하나 말해보자. 
 
+***
+
+# #15 뉴스문제, IM2를 AL처럼 들리게 하는 방법 | 오픽 외국인편 006
+
+https://www.youtube.com/watch?v=X40vbcQWkzI
+
+오픽에서 15번 문제의 20프로는 뉴스에 관련된 문제이다. 오픽을 처음 공부한다면 4가지 카테고리가 있다. 설명/ habit/ 과거경혐 /비교이다. 뉴스 질문또한 4개 카테고리중 하나이다. 바로 Habit에 관련되있다. 
+
+우선 다음은 뉴스 질문에 대한 팁이다. 
+
+> 질문에 반응하기
+
+질문이 얼마나 어려운지 반응한다. 너무 길게는 말하지 말자. 리액션이 너무 길면 이상하게 보인다.
+
+> 질문에 있는 단어 반복하기
+
+성실하게 생각하고 있는 것을 잘 보여줄 수 있다.
+
+> 모른다는 사실을 상기시키기
+> - I have no idea about ~
+> - I have no clue about ~
+> - I really have no idea about ~
+> - Like, I truly have no clue about ~
+
+> 질문지배
+
+especially on the news! 옵션으로 let alone을 이용
+
+> Continue with habit
+> - As far as I know, ~
+> - For me ~
+
+I, us, we, people과 같은 단어를 이용하면 사회와 나의 의견을 동시에 얘기할 수 있다. 
+
+> ### ex)
+> Q: Homes are in the news quite often because of problems in the housing market. Perhaps, there are too many people who are looking for homes. Or there are too many homes out on the market. Talk about the news you remember watching about homes people live in. How did people deal with that issue? 
+>
+> A: Oh man, alright, so, 
+> - 일반적인 리액션으로는 Oh wow, 로 자연스럽게 리액션을 할 수 있다. 
+>
+> Homes(질문에 있는 단어 꺼내기) ... **I have no idea(아무것도 모르곘다는 표현의 자연스러운 방법)** about the market. 
+> - I have no clue도 I have no idea 대신 가능! 또 이어서 말해보면,
+> - I have no idea about the problems in the housing market, **LET ALONE(커녕)** watching/reading it on the news!
+> 
+> My first house was in Korea. So, I never home-shopped before. **That's about it(That's it 보다 자연스럽다)**. I don't know anything else about homes! 
+> - 할말이 없다면, 그냥 바로 결론으로 가버리자.
+> - that's it 같은 대답을 하고 나서 무엇에 관련하여 말했는지 한번 더 결론지어주자.
+
+# 이거 보고 #15 풀래, 안보고 스킵할래? | 오픽 외국인편 007
+
+https://www.youtube.com/watch?v=rZG8TPqdJo0&t=292s
+
+앞에서는 질문을 회피하여 habit으로 대답했다. 이번에는 뉴스에 대해 답변을 해보려 한다. 뉴스에 대해 답변을 한다면 과거얘기를 하게 된다. 따라서 깔끔한 MP가 있어야 한다. 
+
+여기서는 direct quotation를 안하는게 낫다. 
+
+> ### ex)
+> Q: There're sometimes news reports on foods. Food can get contaminated or be affected by dangerous bacteria. Talk about a news report you watched or read about regarding a food-scare incident.
+> 
+> A: Um, the most recent **one(news를 one으로 표현)** I can remember was about the lettuce being a problem. So, everybody was panicking about eating just regular lettuce.
+> - 무엇이? 양상추. 어땠는데? 나빴음. 왜? 사람들이 양상추 먹는것에 패닉함. 
+>
+> And you know, people were using it as an excuse not to eat their salads. 
+>
+> But I wasn't there when this happened, so **I didn't really(틀렸지만 외국인은 깔끔한 스피드와 억양으로 넘어가서 자연스럽게 들린다)** ... it wasn't a problem for me. 
+> - 외국인과 같은 스킬이 어렵다면 fillers를 넣어 자연스럽게 넘어가자.
+> 
+> **Cos(빠르게 말할때는 굉장히 자연스럽게 들림)**, when this was a **big deal**, I wasn't itn the United States. So um, that's all I remember that ... you know, people were staying away from that. And I remember, here in Korea, there was a big problem with ,,, the eggs. 
+> - Big deal: 어려운 일, 유난
+> - department store보다는 shopping mall 이나 mall을 쓰자. 
+>
+> And, a lot of people of um. In the grocery stores, eggs were being more expensive. So, **a lot of people were** actually not buying eggs so often ...  Cas it was getting more expensive. Uh, I, I actually don't eat many eggs either. So it also wasn't a problem for me. But that's what I remember from recent times here in Korea. 
+> - 틀렸을 때 대처법. 똑같은 말을 하면서 진행 or fillers넣고 다시 진행
