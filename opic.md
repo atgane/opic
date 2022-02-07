@@ -20,12 +20,12 @@ Fillers는 더 대화내용을 자연스럽게 해주는 요소.
 
 
 > appeared <-> are usually
-> 
+>
 > 한번만 등장하고 말음 <-> 계속 등장함
 
 > tell the truth > tell **you** the truth
-> 
-> 오른쪽이 더 부드러움! 
+>
+> 오른쪽이 더 부드러움!
 
 > That's all. 하고 종료하지 말고 그냥 빼기.
 
@@ -396,3 +396,110 @@ https://www.youtube.com/watch?v=PI2FFtUS-oM&t=13s
 > 
 > And um, I'm not sure if I have more free time now as an adult, but what is for certain is that I have, definitely, more freedom from my mom's nagging. 
 > - 결론을 짓기 어렵다면 이미 말한 감정과 연결시켜서 결론에서 다시 말하면 좋다. 무언가를 싫어한다면 현재도 여전히 싫어하는지 혹은 개선되었는지? 
+
+***
+
+# 한국어를 영어로 바로 말할수 있을까? | AL 시리즈 학생편 007
+
+https://www.youtube.com/watch?v=jaeSCfIBIdU&t=383s
+
+오픽 질문에 대답을 할 때 한가지 목적만 있다. 이 목적을 완벽하게 대답하는 것이 아닌 이해하기 쉽게 전달하는 것이 목적이다. 문법을 계속 고치려고 하지 말자. 또 요점을 말하자마자 무엇을 느꼈는지를 바로 말하도록 한다. 또 왜그렇게 느꼈는지 간단하게 설명하자. 
+
+> ### ex)
+> Q: Can you tell me about the last time you had some free time? When was it? What did you do? Did you spend the time with someone? 
+>
+> A: uh, ok. I went to Swiss(Swiss라 하면 스위스에서 만든 무언가를 의미하므로 Switzerland라 하자) with my sister **for about a few months ago(이부분은 실수)**. And it was friggin' awesome because I got to go skydiving. 
+> - 중간에 만약 실수를 고치려고 한다면 for 다음에 filler를 넣자. for ... you know, I went there about a few months ago. 
+> 
+> And um, (just를 넣어주면 더 좋다) talking about it makes me wanna call up my sister and go there again. 
+> 
+> Anyway, we stayed there just for (이자리에 a를 꼭 넣어줘야 한다) jew days. And, I didn't have that much time to travel. So, I had no choice but to choose only one activity. And um, **if only** I had more time...
+> 
+> Anyway, I decided to go skydiving as my main activity(다시 자연스럽게 MP로 넘어감). **And believe it or not(믿기 힘들겠지만. 무언가가 특이할 때 사용하면 좋음)**, I didn't feel nervous **at all** before I went skydiving. But when I was about to jump, I was like "OMG, OMG. I can't do this! I can't."
+> 
+>  And then, I think I passed out, uh, for a few seconds. And then when I woke up, it was the most thrilling thing that I've ever experienced. And um, next thing you know, I was on the ground. And um, you know what? Oh, after this test, I think I should call up my sister ... for round two. 
+> - 틀릴 때는 문법을 고치려고 하지말고 중간에 filer를 이용한다음 다시 진행해주자. 
+
+***
+
+# IM2에서 AL로 레벨업 할수있는 꿀팁! | AL 시리즈 학생편 008
+
+https://www.youtube.com/watch?v=lnW8GkLY4rk
+
+항상 대답할 때 중요한 것은 MP를 놓치지 않고, 유지하는 것.
+
+filler를 자연스럽게 사용하는 방법은 filler를 빨리 말하는 것! 
+
+우리가 어디에서 왔는지 채점자들이 알거라 생각하지 말자. 커피숍이라면 어느 커피숍인지, 호텔이면 어느 호텔인지?
+
+> ### ex)
+> Q: What kinds of technology do people typically use in your country? Do people use computers, cellphones, or hand-held devices? What are some common forms of technology that people use? 
+>
+> A: Um, so, in my country, um our(our을 R이라 발음해보자) cellphones is(are로 해야되지만 그냥 틀렸다면 넘어가도록 하자) um ... is very important. Every single(틀린부분) ... everyone owns (a를 안넣어주면 문법적으로 어색하다) cellphone. This is um, **part of our life(이거 없이 살수 없다)**. 
+> - 틀린거보다 MP를 잘 전달하는게 중요. 
+> 
+> It connects to everywhere(이 문장은 어디에 연결되는지 잘 나타나지 않음). Um, it allows us to set an alarm (to 틀린 표현. 고치지 않고 넘어가는게 좋다) ... before we go to sleep. In the morning we wake up, you know, you ... first thing you hear is your alarm sound. And at first thing you go with you phone, you know, checking notifications.
+> - 1번문장을 고쳐본다면? It's able to connect to the internet and so it's kind of like a mini computer. It's just so versatile(다용도의, 발음주의, 기술 질문에서 엄청 좋은 단어이다).
+> - 콘센트는 영어로? outlet
+> - 문법이 틀린걸 인지해도 고치려고 한다면 채점자들이 완전히 이해하기 어려울 수 있다. 따라서 틀려도 보내주도록 하자.
+> 
+> And it's just ... it ... it's something that, you know, it's so attached to us ... and it's so, um, connected to every **single** part of our life. We can't ... it's ... it's ... we need it. it's like, it's a point where we need it. 
+> - 머리속이 하얘질 때 filler를 활용해서 다시 메세지를 명확하게 바로잡자.
+> 
+> And we use it and Yup! So cellphone is the, you know, technology device we use the most ... in our country. 
+> - 할 얘기가 없으면? 그냥 결론으로 가버리기. and하다가 모르겠다면 짤라버리고, 다시 MP로 돌아가자. 
+
+***
+
+# 영어로 긴 문장 만들기 어렵지 않아요! | AL 시리즈 학생편 009
+
+https://www.youtube.com/watch?v=lvj-8hjfsfA&t=563s
+
+오픽을 할 때 어떻게든 짧게 할 수 있는 방법을 찾는다. 하지만 계속 길게 말하는 연습을 해볼 필요가 있다. 문장을 길게 만들기는 생각보다 쉽다. 다음의 4가지 단어를 활용해보자.
+
+- Which
+- Because
+- Really
+- Since
+
+짧은 문장을 말하고 이 단어중 하나나 두개, 모두를 사용하면 자연스럽게 문장이 길어질 것이다. 예를 들어, I love dogs.을 I love dogs because they are so cute. 을 I love dogs because they are so cute which is important to me. Because they are not cute, I wouldn't like dogs. 이런식으로 점점 길게 늘릴 수 있을 것이다. 
+
+> ### ex)
+> Q: Technology has definitely changed over time. Tell me about an early memory that you have about a piece of technology. It could be a computer or mobile phone from many years ago. Describe for me what this thing was like back then. How was that technology changed over time? 
+>
+> **I'll be talking about(아주 자연스러운 문장)** my phone **since(문장을 길게 만들기 쉽게)** I did't **really(더 문장을 정확하게 해준다)** have my own computer in the past.
+> - I would like to talk about은 뻣뻣하다. 차라리 I would say ~나 I would have to say ~가 훨씬 더 낫다. 
+> - I'm not hungry -> I'm not really hungry를 서로 비교해보자!
+> 
+> Today I awn a galaxy note 8 **which** is amazing **because** I can use it to contact people **all around the world(기술질문에서 너무 좋다)**. 
+> 
+> But these days **it's uh, you know,(생각이 안날 때는 fillers를 이용해서 자연스럽게 하자!)** it's a totally different story.
+> 
+> In the past, I had this **tiny little(작은 것을 말할 때 이 두 단어를 합쳐서 말하면 아주 자연스럽게 들린다)** phone ... slide phone. **Which** I don't even know **which** company is from. But I could use it to call and text my family and friends in Korea(앞부분과 대조하면서 flow가 너무 좋다).
+> - tiny amazing phone, tiny expensive phone 이런식으로 다른 단어를 넣어서 자세히 설명할 수 있다. 
+>
+> Um, but today, with my galaxy note 8. I use a lot of apps. But especially I use the Kakao app the most which I use to, uh, call and video all my cousins in America.
+> - 다른 앱들을 많이 쓰지만 카카오에 대해서 자세히 말하고 싶을 때 이런 흐름으로 말할 수 있다. 
+>
+>  Um, I don't know how I would be I would be able to live without my phone today being unable to contact them through this Kakao app. 
+> - 결론을 내기 어렵다면, Overall 이나 I think overall 로 시작할 수 있다. 그 앞에서 말한 느낌을 다시 넣는다. 
+> - 여기서 더 다양하게 강조를 하고 싶다면 '이거 없이는 못살겠다' 이런식으로도 좋다.
+
+***
+
+# 영어로 웃겨라! 유머러스한 영어문장 쉽게만들기! | 영어회화쓰 005
+
+https://www.youtube.com/watch?v=D37gEO_UjTs
+
+HATE LOVE technique. 일상생활에서 쓸 수 있는 유머. 영어 말하기와 영어 능력을 향상시킬 수 있다. 재미있게 말하는게 쉽지 않지만 이런 식으로 접근해 볼 수 있다. 
+
+- I hate coffee simply because it is just so darn good! I just can't get enough of it!
+- I hate my wife because I think she's just so darn fine! I can't lay my eyes off of her. 
+
+방법을 나눈다면
+
+- 좋아하는 것을 찾고
+- 싫어한다고 말한다. 반어법을 이용하자. 
+- 뒤에서 긍정적인 것을 생각하고 because를 이용해보자. because뒤에 살짝 멈추도록 한다.
+- 이후 좋은 이유를 아무거나 하나 말해보자. 
+
