@@ -551,6 +551,8 @@ I, us, we, people과 같은 단어를 이용하면 사회와 나의 의견을 �
 > - 할말이 없다면, 그냥 바로 결론으로 가버리자.
 > - that's it 같은 대답을 하고 나서 무엇에 관련하여 말했는지 한번 더 결론지어주자.
 
+***
+
 # 이거 보고 #15 풀래, 안보고 스킵할래? | 오픽 외국인편 007
 
 https://www.youtube.com/watch?v=rZG8TPqdJo0&t=292s
@@ -576,3 +578,360 @@ https://www.youtube.com/watch?v=rZG8TPqdJo0&t=292s
 >
 > And, a lot of people of um. In the grocery stores, eggs were being more expensive. So, **a lot of people were** actually not buying eggs so often ...  Cas it was getting more expensive. Uh, I, I actually don't eat many eggs either. So it also wasn't a problem for me. But that's what I remember from recent times here in Korea. 
 > - 틀렸을 때 대처법. 똑같은 말을 하면서 진행 or fillers넣고 다시 진행
+
+***
+
+# 11 롤플레이 이 영상 하나로 실력을 높일수 있다?! | 오픽 1:1 가이드 006
+
+https://www.youtube.com/watch?v=IYSZeoYMsaw
+
+롤플레잉에는 3가지 시나리오가 있다.
+
+- 모르는 사람
+- 아는 사람
+- 자동응답기
+
+자동응답기는 거의 안나온다. 가장 먼저 롤플레잉에서 해야할 것은 자신의 상황을 설명하는 것이다. 첫번째 질문을 했다면, 바로 두번째 질문으로 가지 말고 대답을 반복해주자. 질문에 대한 대답은 되도록 긍정적인 것을 생각하자. 부정적인 방향으로 갈 경우, 혼란스러워 질 수 있다. 이후 질문에도 바로 다시 질문하는게 아닌 대답을 하도록 하자. 또 대답에 대한 감정을 드러내자. 마지막 질문을 할 때는 약간 끝난 모습을 보여주자. 예를 들어서 두번째 질문에서 마무리를 하다가 마지막에 질문이 생각난것처럼 진행해도 좋다. 
+
+> ### ex)
+> Q: I'd like to give you a situation to act it out. You would like to buy a new cellphone. Call a store and ask 3 or 4 questions about a new phone you would like to purchase. 
+>
+> A: Hello. 
+> - phone conversation에서는 **Hi there**이 너무 좋다. 누군가를 개인적으로 만날 때 hi를 쓰면 좋다. 오픽 시험에서는 그냥 **HI**라 하자. 
+>
+> I want to buy a new phone like, um, an iPhone X. 
+> - **자신의 상황 설명**하기. 설명을 너무 길게할 필요는 없다. 간단하게 하고 다음으로 넘어가도 좋다. 
+>
+> You know, but, um, ... I have um ... not much money so I want to ask um ... how much is the iPhone X? 
+>
+> Oh, that cheap! oh thank you. 
+> - 대답을 반복하자. 누군가와 이야기하고 있음을 어필하자. 실제 상황은 아니고 오픽 시험이기 때문에 이해하기 쉽게 롤플레잉을 하자. 상대방이 어떻게 답변했는지 모르지만 대략적으로 유추할 수 있다. 
+> - 이렇게 진행도 가능 Oh that cheap? Only $1,000? That's great!
+> 
+> But, uh, I want to ... I really want to buy pink iPhone X. So do you have um ... pink one? Oh nice! You have pink one! 
+> - 색깔에 대해 얘기할 때는 특히, 물건에 대해서는 이렇게 해주자. 
+> - Does it come **in** Pink? 이러면 매우 자연스럽다. 이후 리액션
+> 
+> But you know, uh ... I like listen to music so I really need um, new um, iPhone with speakers. So do you have uh, very nice speaker for my(실수) iPhone? Oh best! That's best(여긴 문법오류)! Thank you so much. Then I will go to um ... tomorrow for buy my phone. Bye. 
+
+***
+
+# Quick Comparison방법: 오픽 왕초보도 이제 habit 문제 어렵즤 아놔요~! | 오픽 외국인편 008
+
+https://www.youtube.com/watch?v=teF__NjthSU
+
+> ### ex)
+> Q: Stories about recycling are often in the media. Tell me about one new story that you heard related to recycling or perhaps environment. Describe what the stories was about, and what the reaction to the story was. 
+>
+> A: Um, in the media I don't really know much about ... recycling in the media.
+> - 여기에 대해서 많이 모른다는 표현. 질문안에 있는 단어를 쓰면서 뉴스를 빼고 진행하는 전략. 이러면 habit 유형이 된다. 
+> 
+> But um, I know my recycling habits have gotten better here in Korea.
+> - habit으로 아예 넘어가기. 
+>
+> Um, my landlord uh, really begged me to recycle cos I wasn't before. And so um, yeah, now I separate all the things.
+> - habit에는 MP를 넣기가 힘들다. 따라서 여기서는 잠깐 과거를 꺼내고 현재 얘기를 꺼내어 빠르게 비교를 하는 것이다. 
+>
+> And uh, I guess in Korea it's a more ... more um, required and necessary cos now there're fines. But one of my friends did like ... we **find(이렇게 생각한다 이런걸 보여주는 단어)** it really **weird(꿀단어)** when, um, the CCTV takes pictures of people who don't recycle. And ... and they took a pictures of him not recycling. And they put it on his door. And like you can't really see him because he's covered up with all there jackets. But somehow, his, his uh, landlord knew it was him. 
+>
+> Koreans are **hardcore(매우 힘들 때나 쇼킹할 때 사용한다)**. 
+
+fasted: 금식
+
+***
+
+# #12 롤플레이, 누구라도 AL처럼 답 할수 있어요 | 오픽 1:1 가이드 007
+
+https://www.youtube.com/watch?v=cF3wGkx6Cbs
+
+간단하게 문제점을 설명하도록 하자. 간단하게 바로 문제점에 대해얘기하고 어떻게 느꼈는지 설명한다. 문제점을 설명했다면 문제 해결을 위한 첫번째 질문을 한다. 11에서는 항상 yes릃 했지만 12번에서는 문제 해결을 위해 2가지를 이용한다. 처음은 부정적인 대답을 얻고 두번째는 긍정적인 대답을 얻는다. 
+
+첫번재 질문을 할 때는 이렇게 시작하자.
+
+- could you ~
+- would it be possible that ~
+- would you be able to  ~
+
+이건 약간 비즈니스 방법이다. 기본적으로 누군가와 이야기할때 이 방법이 좋다. 그 다음에 부정적인 대답을 했다고 가정하고 이유를 묻도록 하자.
+
+- Well, why not?
+- May I ask why? 
+
+이후 감정을 말한다. 이때 최대한 자연스럽게 한다. 
+
+- that sucks!
+- How unfortunate!
+
+항상 롤플레잉에서는 소통하고 있음을 보여줘야 한다. **응답을 반복**하면 좋다! 그리고 억지로 길게하려고 하지 말자. 
+
+> ### ex)
+> Q: I'm sorry but there's a problem I need you to resolve. You have received that tew phone but the features are not what you expected. You would like to return it to get a new phone. Call the store, explain the situation, and make arrangements to get a new product.
+>
+> A: Oh my god. Hi yesterday I brought a pink iPhone X. But I received a blue color.
+> - color에 대해서 얘기할 때 색만 말한다. 뒤에 color를 붙이지 않는다.
+> 
+>  You know, I don't like blue color so I want to change this one. Can you change for me? OMG you can't? Um ... then can I just um refund my iPhone X? Alright, thank you that's too bad. Bye, Oh but , um, then I want to make um, arrangement for my um, refund schedule. Oh ok. then maybe I will go next week. Thank you. 
+
+***
+
+# 날씨 콤보 세트, IH vs AL 도대체 모가 달라? | 오픽 1:1 가이드 008
+
+https://www.youtube.com/watch?v=bkbI39plph0&t=111s
+
+> ### ex)
+> A: Wheather in Korea... 
+> - 라고 말하면서 잠깐 생각하기. 
+>
+> You know, I watched the news this morning. 
+> - 15번은 아니지만 뉴스얘기를 했다.  15번에도 이렇게 접근할 수 있다.
+>
+> It said we have tons of fine dust in the air.
+> - 이건 IH수준.
+> - AL 수준으로는 We have a serious fine dust problem. 
+> - We are starting to have is en excellent expression. 
+>
+> This is just disaster. Can you imagine? How can I live with this much fine dust? 
+> - 뉴스에 대해서 말했지만 자연스럽게 경험으로 넘어가고 있다.
+> Can you imagine -> How am I supposed to live with this much fine dust? 
+>
+> You know, In the past, I think even 3 years ago, it wasn't like that
+> - 자동적으로 대조가 되면서 매우 좋아졌다. 비교질문의 답을 할 때 과거와 현재를 잘 이용하자. 
+> 
+> Basically, we won't worry(we didn't have to worry) about air condition(에어 컨디션은 에어컨을 의미하는 것 같으므로 air quality라 하자) thing. 
+> - 실수가 많다. 말하기 어렵다면 경험에 기반해보자. 
+> - We went outside pretty much worry free. 
+>
+> And we were able to do anything outside.
+> - IM2 레벨. 
+> - And we were able to freely go outside without having to wear a mask.
+>
+> But these days, basically we can't do anything outside. 
+> - 여기서는 디테일한게 필요하다.
+>
+> We just, you know, if you just stand outside for **only** a few minutes, you can fell all the dust in your mouth(lungs). 
+> - 틀릴 때는 filler이용 
+>
+> This is just awful. 
+> - just가 개좋음. 자주쓰자
+>
+> And I don't know if this will be better or not, but hopefully this will be handled very soon.
+> - 일반적인 결론내기. 
+> - 약간 독특하게 하고 싶다면
+> - You know what? I'm really just getting sick and tired of wearing masks all the time. If this keeps up, I'm gonna be forced to move out of this country.
+
+***
+
+# 날씨콤보세트 IH/AL구분하자! | 오픽 1:1 가이드 009
+
+https://www.youtube.com/watch?v=rYIXHW37Cts
+
+> ### ex)
+> Q: Severe weather condition  con do a lot of damage. Tell me about an experience you had related to severe weather conditions  Perhaps a city was flooded, or maybe businesses or schools closed due to heavy snow. What was the problem? How did you deal with that situation? 
+>
+> A: Oh weather conditions? oh ok. 
+> - 메세지가 명확하고 계속 진행할 수 있어서 IH이상일 것. 
+> - oh ok 보다는 oh alright.가 더 자연스러워보임
+> 
+> But um, since I never ever experienced any kind of serious weather-related problems like disasters or something. 
+> 
+> Um I think I would just have to say about my experience in Australia. 
+> - 솔직하게하는 대답. 하지만 과거 얘기에서 MP가 없다. 
+> 
+> Because uh, you know what? Uh, the weather condition of Melbourne uh was really crazy. 
+> - MP이지만 좋은건지 나쁜건지에 대한 설명이 없다. 좋은 점수에는 깔끔한 MP가 좋다. 
+> 
+> I mean, um, even though I was there in summer, um I was able to experience uh, several seasons only in a day. 
+> - 계절에 대해서 말할 때는 in summer 보다 during the summer가 좋다. only in a day보다 in a single day가 좋다. 
+> 
+> Oh, oh what am I trying to say is, um, you know, the weather condition of Melbourne, uh, is really broken and fluctuating.
+> - what am I trying to say 다음에 is를 말하기보다 anyway를 말하고 다음 문장을 이어가는게 좋다. 
+> - Oh oh는 11번 롤플레잉때 사용하자. 
+> - 날씨와 몸에는 condition 을 쓰지 말자. fluctuating은 좋은 단어
+> 
+>  So, uh, while I was travelling there, um, I had to bring, uh, light jacket or a sweater just in case the weather changes suddenly. 
+> - 과거기 때문에 changes가 아니라 changed라 해야함
+
+***
+
+# 영어 0도 몰라도 만들수 있는 기본문장 특강! | 영어회화쓰 006
+
+https://www.youtube.com/watch?v=C2e6lFWbNaY&t=297s
+
+## 감정에 대한 neutral word말하기
+
+감정에 대해 집중할 때 긍정적일 때와 부정적일 때 모두 쓸 수 있는 단어를 알아보자. 
+
+> ### ex)
+> Terrible / Terribly를 쓰는 경우:
+> THe weather is (just so) terribly good today.
+> THe weather is (just so) terribly bad today.
+
+이 문장이 편해진다면 사이에 just so를 집어넣어보자. 
+
+- Unbelievable / Unbelievably를 쓰는 경우:
+- The movie was (just so) Unbelievably good.
+- The movie was (just so) Unbelievably bad. 
+
+- Ridiculous / Ridiculously를 쓰는 경우:
+- This coffee is (just so) Ridiculously good.
+- This coffee is (just so) Ridiculously bad.
+
+- Undeniable / Undeniably를 쓰는 경우:
+- SRB is (just so) Undeniably good.
+- SRB is (just so) Undeniably bad. 
+
+단어가 커서 한 단어만 써도 문장 느낌이다. 
+
+## interesting 써보기
+
+또 아무말도 안나올 때 Interesting을 써보자. 
+
+- It was interesting. 
+- It was quite interesting.
+- It was kind of interesting. 
+- It wasn't interesting. 
+- It wasn't that interesting. 
+
+감정 중립이 된다면 사용하기 편할 것이다. 그 다음에 자신의 감정을 확실히 표현하는 단어를 표현하자. 
+
+- It was just out of this world!
+- nothing to boast about. 
+
+## epic 써보기
+
+- The new Samsung S10+ is just so epic!
+- The new Samsung S10+ is just nothing special.
+
+Off the hook은 뭔가 과장하고 싶을 때 쓴다. 
+
+- Wow  your car is off the hook!
+
+또 unreal을 이용해서 과장할 수 있다.
+
+- The new Google ~ is unreal!
+
+나의 감정에 대해서는 ed를 붙이고 딴거에 대해서 얘기할 때는 ing를 붙이자. 
+
+***
+
+# 날씨콤보, IH/AL 정말 차이가 모지? 아따 미치겠다~!! | 오픽 1:1 가이드 010
+
+https://www.youtube.com/watch?v=AiEzJGrP6rA
+
+IH는 MP 30초에 계속 말을 이어가는 것이다. 계속 말하기를 자연스럽게 하는 것은 fillers를 이용하는 것이다. 또한 감정에 대해서 계속 말하는 것이다. 많은 어휘력보다 감정을 나타내는 단어에 집중하자. 어떻게 생각하는지, 어떻게 느끼는지에 대해 말한다. 
+
+그리고 한국말을 쓰지 않는다. 그리고 이메일, 비즈니스, 프레젠테이션 용어를 오픽에서 쓰지 말자. 그리고 노스크립트. 
+
+AL은 IH와 크게 다르지 않고 까다로울 뿐이다. MP를 20초안에 정리하고 단도직입적으로 해야 한다. 또 계속 끊임없이 말해야 한다. 정적이 흐르는 시간을 똑같이 IH와 같은 방법으로 줄이지만, filler를 조합해서 써야 한다. 말하면서 똑같이 사실보다 감정에 집중한다. 
+
+뭔가 외운 티가 나면 채점자들이 낮은 점수를 줄 것이다. 
+
+> ### ex) 
+> Q: Tell me about the weather in your country. Are there different seasons? What is the weather like in each season? 
+>
+> Yeah, guess what? There are 4 different, um, seasons, uh, in Korea like, you know, spring, summer, fall and winter. Yeah, you name it.
+> - guess what? -> 은 좀 어색하다. 상대방에게 뜻밖의 일을 알려줄 때 사용한다. 아예 예상치 못한 말을 시작할 때 쓴다.
+> - 계절을 4개 다 말하지 말고 그냥 사계절만 말하고 끝내자. 굳이 다시 확인시켜줄 필요는 없다. 
+> you name it. -> 도 어색하다. 이 표현은 계속 뒤에 이어지는 리스트가 있을 때 사용한다. 그 밖에 뭐든지 이런 뜻으로 마무리시키는 것이다. 
+> 
+>  And the features of each season are completely different, uh, in terms of the weather part. But I'm not gonna mention all the details because they are pretty, you know, pretty similar as the other countries which has four seasons as well. 
+> - 바로 MP에 관련된 얘기로 진행하자. 굳이 필수적인 스크립트가 아니다. 
+> 
+> Anyway, personally, I like spring the most because um, not only it's warm weather but also, I have many changes to, you know, see the various types of flower everywhere which makes me feel, you know, so excited and also, you know, relieve my um, built up stress from the work.
+> - 여기서는 무언가를 많이 말하지만 하나에 집중하고 그거에 대한 감정에 대해서 설명하자. 무언가를 많이 얘기할 때는 연결에 집중하자. 
+> 
+> So overall living in Korea is pretty good to, you know, you have many chances to discover all the different, you know, seasons. 
+
+***
+
+# 쉬운 단어들을 쓰면 오픽에서 더 높은 점수를 받을수 있습니다 | IM 시리즈 001
+
+https://www.youtube.com/watch?v=UXY5ZiloSvM
+
+- Ava한테 질문하지 말기. 질문할때는 대답이 필요없는 질문을 할 것!
+- 어려운 단어 쓰지 말것!
+- 한 문장에서 같은 단어 반복하지 말기! 
+- 무언가를 묘사하거나 감정 단어 2개를 말할 때 and 사용하지 말기!
+- 한가지 얘기만 하기!
+
+> ### ex) 
+> Q: I would like to where live. Describe your home. What does it look like? How many rooms does it have? Give me a description with lots of details.
+>
+> Oh, You wanna know about my place? Ok. 
+> - 질문하지 말자. 어지간하면 어색하다. 그냥 인정하면 좋다. 
+> - Oh, so you wanna know about my place ... alright, well ... 처럼 하면 좋을 것이다. 
+> 
+> Basically, I live in 4 storey house. 
+> - 4 storey house는 4층 집. 어려운 단어를 쓰지 말자. 
+> - 그냥 my house is really small. 
+> - house는 apartment와 구별하기 위해 쓰는 단어. 이런 의미가 아니라면 home을 사용하자. 
+> 
+> This place very small place. 
+> - this place 는 남의 집 느낌. it's very small place 나 my place를 활용하자. 
+> - 또 한 문장에서 같은 단어 반복하지 말자. 
+> 
+> Look like, maybe ... (a) shoebox.
+> - 좋은 비유. 이런 연습은 너무 좋다. 
+> 
+>  So ... but this place very, very comfortable and cozy because only focus me. Focus to me. 
+> - focus to me 보다는 just right for me. It's just perfect. 
+> - 감정단어를 2개이상 사용하지 말자! 그럼 스크립트처럼 들린다. 
+> - my room is just so comfy. I mean it's just so cozy!
+> 
+> And so, this place nearby university 공주
+> - 공주 university로 바꿔야 한다. 
+> - 그리고 한가지 얘기만 하자. 
+> - small house면 small house에 관해서 얘기할 수 있는 것만!
+> 
+> . Very very good. Favorite. So I graduated university 공주. So this place very looks like ... Ugh like, I feel like so comfortable. That's all.
+> - that's all로 끝내지 말자. 
+
+***
+
+# 8만원주고 IM받는 이유 | IM 시리즈 002
+
+https://www.youtube.com/watch?v=OxbTL9egHYw
+
+난이도를 제발 3을 고르지 말자. 적어도 4를 고르자. 어렵게 한다면 높은 점수를 받을 확률도 올라간다. 5-5를 고르면 자기소개, 첫 콤보세트, 두 번째 콤보세트, 세 번째 콤보세트, 롤플레이 세트, Ihateyou 세트로 구성된다. 여기 세 콤보세트중에 마지막 질문이 제일 어렵다. 각 콤보세트마다 마지막이 어려운 편이다.
+
+총 7개의 개어려운 구성중에 5개를 잘 해낸다면 IH를 받기 쉬울 것이다. 난이도를 4로 가정한다면 상위수준 질문이 줄어든다. 모든 상급질문을 받을 때마다 완벽하게 해야 IH를 받을 수 있을 것이다. 
+
+한가지만 기억하자. 한가지로만 얘기하는 거를 기억하자. 아무리 여러가지를 물어봐도 한가지로 집중하다. 질문을 제어한도록 해야한다. IM을 받는 이유는 질문을 제어하지 못하기 때문이다. 한 질문이 5가지를 물어본다면 5가지를 다 설명할 수 있을까? 불가능하다. 아무리 영어를 잘해도 다 기억하기 힘들기 때문에 한가지로 제어해야 한다. 
+
+질문이 여러개면 그중 한가지만 집중하자. 질문중 한가지를 99%로 채워서 집중해야 한다.
+
+> ### ex)
+> Q: What is your normal routine at home? What things do you usually do on weekdays and what kinds of things do you do on weekends. 
+> - 두 질문이 나왔는데 하나에만 분명하게 집중하자!
+>
+> A: Um, I'm a student so I spend time at library on weekdays, yeah. You know, I didn't have much time on weekdays. 
+> - 질문에 대해 대답할 때 어떤 종류인지를 알아야 한다. 답변할 때 4종류가 있다. 설명/습관/과거경험/비교이다. 각각의 전략만 연습하도록 하자.
+> - 여기서는 현재만 얘기하므로 didn't보다 don't를 쓰는게 좋다. 
+> 
+> But instead, I usually spend time at home on weekend, yeah. I love this time because I can do everything what I want(어색함 I con do whatever I feel like로 쓰는게 더 좋다! 또는 I really love having my own time), yeah. 
+> - 이제 주말로 집중하고 감정이 보이기 시작한다. 이 사람은 yeah를 너무 많이 쓰는데 차라리 빼는게 좋다. 
+> 
+> But(계속 설명하므로 And가 더 좋다) you know what? I love watch movies. So I **usually** watch movies at home. 
+> 
+> It makes me flexed, yeah. Quite good, um... The another thing is ...
+> - It helps me to relax. It makes me feel so good to watch movies all days 이런식으로 활용이 가능하다. It makes me feel ~를 잘 활용하자!
+> 
+>  Um, you know, the another thing is listen to music, catch some z's, and so on. yeah. These things are makes me full of energy. 
+> - 한가지만 얘기해야 한다! 여러가지를 얘기하다 보니 어려운단어를 쓰게 되고 복잡해진다. 
+
+왜 잘하고있다가 다른걸 얘기할까? 긴장하기 때문이다. 머리가 하얘지거나, 말이 짧다는거를 느끼기 때문일 수 있다. 쓸때없는 걱정과 대답이 나올 수 있는데 이렇게 하면 안된다. 이럴때는 바로 결론으로 가야한다. **아무말이 안나온다면 바로 결론으로 가자**. 쓸모없는 말은 쓸모없다. 
+
+어떻게 더 말을 할 수 있을까? 
+
+- It makes me feel so good to watch movies all day.
+
+까지 대답하고 아무말이 안나온다면 결론으로 가고, 좀 대답할 여유가 있다면 습관 질문의 전략을 생각하자. 빠른 비교를 사용하는 것을 쓰는 것이다. 잠깐 과거로 갔다가 바로 현재로 오는것이다.
+
+- I never did this before, but nowadays, I just love doing this. 
+
+간단하다! 더 추가를 하고 싶다면, 
+
+- I just don't know why!
+- I just can't explain it!
+
+을 사용하는 것이다. 
